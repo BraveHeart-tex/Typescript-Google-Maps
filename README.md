@@ -9,4 +9,5 @@ Includes Classes,interfaces and custom types.
 4. Create 2 classes that hold random data (with Faker.js).
 5. Render 2 markers on the map with the help of lang. and long.
 6. Display different info on 2 markers.
-   ![end result of the project](/picture1.png,'Resulting Map')
+
+![end result of the project](/picture1.png)
